@@ -37,7 +37,7 @@ class AffifWafi:
 
 ## `~/about`
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" alt="coding gif"/>
 
 I'm a **19-year-old CS student** from Malaysia, currently finishing my foundation at **Kolej MARA Kuala Nerang** before heading into a Computer Science degree at **Multimedia University (MMU)** in September 2026. I like writing clean code (when it compiles), exploring how computers actually work under the hood, and slowly mastering the art of not Googling every error message.
 
