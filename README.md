@@ -32,7 +32,9 @@ class AffifWafi:
     def say_hi(self):
         print("Hey, glad you stopped by. Have a look around.")
 ```
+## 🌐 Socials:
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/affifw_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Affif Wafi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:affifwafi@gmail.com) 
 ---
 
 ## `~/about`
@@ -76,7 +78,9 @@ Still early in the journey — but that's the fun part.
 
 <div align="center">
 
-![Affif's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyukiGit&show_icons=true&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=MiyukiGit&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
 
 
 </div>
