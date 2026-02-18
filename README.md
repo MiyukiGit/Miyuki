@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -24,7 +23,7 @@ class AffifWafi:
         self.name       = "Affif Wafi"
         self.age        = 19
         self.location   = "Kuala Nerang, Kedah 🇲🇾"
-        self.education  = "Diploma @ Kolej MARA Kuala Nerang"
+        self.education  = "Foundation @ Kolej MARA Kuala Nerang"
         self.graduating = "June 2026"
         self.next_step  = "Entering B.Sc. Computer Science @ MMU (Sept 2026)"
         self.languages  = ["C++", "Python"]
@@ -38,9 +37,13 @@ class AffifWafi:
 
 ## `~/about`
 
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+
 I'm a **19-year-old CS student** from Malaysia, currently finishing my foundation at **Kolej MARA Kuala Nerang** before heading into a Computer Science degree at **Multimedia University (MMU)** in September 2026. I like writing clean code (when it compiles), exploring how computers actually work under the hood, and slowly mastering the art of not Googling every error message.
 
 Still early in the journey — but that's the fun part.
+
+<br clear="right"/>
 
 ---
 
@@ -50,8 +53,6 @@ Still early in the journey — but that's the fun part.
 
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -64,7 +65,7 @@ Still early in the journey — but that's the fun part.
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 🔧 `coming-soon` | Something in C++ | C++ | 🛠 In Progress |
+| 📚 [`Library-Management-System`](https://github.com/MiyukiGit/Library-Management-System) | A full library management system | C++ | ✅ Built |
 | 🐍 `coming-soon` | Something in Python | Python | 🧪 Planning |
 
 *Projects will be pinned here as they take shape. Building quietly.*
