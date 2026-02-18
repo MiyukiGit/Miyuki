@@ -38,7 +38,7 @@ class AffifWafi:
 
 ## `~/about`
 
-I'm a **19-year-old CS student** from Malaysia, currently finishing my diploma at **Kolej MARA Kuala Nerang** before heading into a Computer Science degree at **Multimedia University (MMU)** in September 2026. I like writing clean code (when it compiles), exploring how computers actually work under the hood, and slowly mastering the art of not Googling every error message.
+I'm a **19-year-old CS student** from Malaysia, currently finishing my foundation at **Kolej MARA Kuala Nerang** before heading into a Computer Science degree at **Multimedia University (MMU)** in September 2026. I like writing clean code (when it compiles), exploring how computers actually work under the hood, and slowly mastering the art of not Googling every error message.
 
 Still early in the journey — but that's the fun part.
 
