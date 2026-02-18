@@ -76,7 +76,7 @@ Still early in the journey — but that's the fun part.
 
 <div align="center">
 
-![Affif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiyukiGit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF)
+![Affif's GitHub Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyukiGit&show_icons=true&theme=radical))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiyukiGit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF)
 
